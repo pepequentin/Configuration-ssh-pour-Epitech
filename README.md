@@ -2,7 +2,7 @@
 Rappel / Tuto pour configurer son ssh avec blih epitech
 
 Si vous avez ce genre d'erreur : git@git.epitech.eu: Permission denied (publickey).
-                                 fatal: Impossible de lire le dépôt distant.
+fatal: Impossible de lire le dépôt distant.
 
 Il y a une solution, en 3 étapes.
 
